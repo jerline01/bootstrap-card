@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+.total {
+  background-image: linear-gradient(to right,blue,lightblue);
+}
+
+span {
+  font-size: 20px;
+}
+
+.clear {
+  opacity: 0.5;
+}
+
+.front {
+  text-align: center;
+}
+
+.front p {
+  opacity: 0.5;
+}
+
+.col-lg-4 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.btn {
+  border-radius: 50px;
+  background-color: #548CFF;
+  width: 100%;
+}
